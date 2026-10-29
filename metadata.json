@@ -1,0 +1,6 @@
+{
+  "name": "Android Device Admin Studio",
+  "description": "Interactive Android Device Admin & Policy XML architect, live device simulator, ADB command generator, and MDM compliance inspector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
